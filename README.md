@@ -1,1 +1,1 @@
-# Machine-Learning-and-AI
+# Image Recognition using Convolutional Neural Network (CNN)
